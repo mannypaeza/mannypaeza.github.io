@@ -1,3 +1,5 @@
+#### [CV](https://mannypaeza.github.io/Resume_ManuelPaez.pdf)     [Linkedin](https://www.linkedin.com/in/manuelpaeza/) 
+
 Manuel Paez
 ======
 
