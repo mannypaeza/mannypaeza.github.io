@@ -23,7 +23,7 @@ I utilize skills from Quantum Information Sciences, Theoretical and Computationa
  
 My ultimate dream is to build a sentient, autonomous Artificial Intelligence that operates on a Quantum Computer and a Quantum-Mind Interface for Humans.
 
-Aside from research, my hobbies include reading books (particularly International Literature and Classics), engaging with the Arts, Traveling, engaging with sci-fi media, and watching Bayern Munich play. 
+Aside from research, my hobbies include reading books (particularly International Literature, Sci-fi, and Classics), engaging with the Arts (Art Galleries, Operas, Philharmonics, etc.), traveling, and watching Bayern Munich. I am also a Mocha Coffee Enthusiast.
 
 Projects and Publications
 ------
