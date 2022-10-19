@@ -1,5 +1,6 @@
 ### Manuel Paez
 #### [CV](https://mannypaeza.github.io/Resume_ManuelPaez.pdf) [Linkedin](https://www.linkedin.com/in/manuelpaeza/) 
+#### manuel [dot] paez [at] columbia [dot] edu
 
 About
 ------
