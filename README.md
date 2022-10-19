@@ -1,14 +1,13 @@
-### Manuel Paez
-#### [CV](https://mannypaeza.github.io/Resume_ManuelPaez.pdf) [Linkedin](https://www.linkedin.com/in/manuelpaeza/) 
-#### manuel [dot] paez [at] columbia [dot] edu
+### Manuel Paez (Manny)
+#### [CV](https://mannypaeza.github.io/Resume_ManuelPaez.pdf) [Linkedin](https://www.linkedin.com/in/manuelpaeza/) | manuel [dot] paez [at] columbia [dot] edu
 
-<img src="https://mannypaeza.github.io/portrait1.jpg" width="350" height="365">
+<img src="https://mannypaeza.github.io/portrait1.jpg" width="350" height="368">
 
 About
 ------
 
-I am Manuel Paez (Manny), a fourth-year Computer Science B.A student at Columbia University. I am currently a Research Assistant under Szabolcs Márka and a
-Research Intern in the Chklovskii Group at Simons Foundation Flatiron Institute. I speak English, Deutsch, Français, Español, and 한국어. 
+I am Manuel Paez , a fourth-year Computer Science B.A student at Columbia University. I am currently a Research Assistant under Szabolcs Márka and a
+Research Intern in the Chklovskii Group at Simons Foundation Flatiron Institute. I am also referred to as Manny. I speak English, Deutsch, Français, Español, and 한국어. 
 
 Research Interests
 ------
