@@ -1,4 +1,4 @@
-### Manuel Paez
+Manuel Paez
 #### [CV](https://mannypaeza.github.io/Resume_ManuelPaez.pdf) [Linkedin](https://www.linkedin.com/in/manuelpaeza/) 
 
 About
