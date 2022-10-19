@@ -19,9 +19,9 @@ I utilize skills from Quantum Information Sciences, Theoretical and Computationa
 * How can Quantum Artificial Intelligence and Quantum Cryptography advance infiltrating computer systems and communications systems (Quantum Cryptanalysis) for Signals Intelligence?
 * How can Quantum Sciences advance Cryptography for Computer and Communication Systems?
  
-My ultimate dream is to build a sentient, autonomous Artificial Intelligence that operates on a Quantum Computer and a Quantum-Mind Interface for Humans?
+My ultimate dream is to build a sentient, autonomous Artificial Intelligence that operates on a Quantum Computer and a Quantum-Mind Interface for Humans.
 
-Aside from research, my hobbies include reading books (particularly International Literature and Classics), engaging with the Arts, Traveling, and watching Bayern Munich play. 
+Aside from research, my hobbies include reading books (particularly International Literature and Classics), engaging with the Arts, Traveling, engaging with sci-fi media, and watching Bayern Munich play. 
 
 Projects and Publications
 ------
