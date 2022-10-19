@@ -11,7 +11,7 @@ I am Manuel Paez, a Fourth-Year Computer Science B.A. student at Columbia Univer
 Research Interests
 ------
  
-My current research aims are to build a rigorous foundation for exploring how the intersections of Artificial Intelligence, Quantum Information Sciences, Computational Neuroscience, and Cryptography can improve Signals Intelligence and Mind-Machine Capacities. With this rigorous foundation, I seek to discover new algorithmic tools and theories that enhance the ability to carry out these functions.
+My current research aims are to build a rigorous foundation for exploring how the intersections of Artificial Intelligence, Quantum Information Sciences, Computational Neuroscience, and Cryptography can advance Artificial Intelligence, Signals Intelligence, and Mind-Machine Capacities. With this rigorous foundation, I seek to discover new algorithmic tools and theories that enhance the ability to carry out these functions.
  
 I utilize skills from Quantum Information Sciences, Theoretical and Computational Neuroscience, Machine Learning, Algebra, Topology, Number Theory, and Cryptography to study these five main questions:
 * How can we intersect Neuroscience with Quantum Computing to create better and more advanced Artificial Intelligence?
