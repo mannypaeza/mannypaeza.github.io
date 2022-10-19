@@ -20,7 +20,7 @@ I utilize skills from Quantum Information Sciences, Theoretical and Computationa
 * How can Quantum Artificial Intelligence and Quantum Cryptography advance infiltrating computer systems and communications systems (Quantum Cryptanalysis) for Signals Intelligence?
 * How can Quantum Sciences advance Cryptography for Computer and Communication Systems?
  
-My ultimate dream is to build a sentient, autonomous Artificial Intelligence that operates on a Quantum Computer and a Quantum-Mind Interface for Humans (similar to the Cyber-brains in the anime/manga Ghost in the Shell).
+My ultimate dream is to build a sentient, autonomous Artificial Intelligence that operates on a Quantum Computer and a Quantum-Mind Interface for Humans (similar to the Cyber-Brains in the anime/manga Ghost in the Shell).
 
 Aside from research, my hobbies include reading books (particularly International Literature, Sci-fi, and the Classics), engaging with the Arts (Art Galleries, Operas, Philharmonics, etc.), traveling, and watching Bayern Munich. I am also a Mocha Coffee Enthusiast.
 
