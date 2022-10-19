@@ -6,8 +6,8 @@
 About
 ------
 
-I am Manuel Paez , a fourth-year Computer Science B.A student at Columbia University. I am currently a Research Assistant under Szabolcs Márka and a
-Research Intern in the Chklovskii Group at Simons Foundation Flatiron Institute. I am also referred to as Manny. I speak English, Deutsch, Français, Español, and 한국어. 
+I am Manuel Paez, a fourth-year Computer Science B.A. student at Columbia University. I am a Research Assistant under Szabolcs Márka and a
+Research Intern in the Chklovskii Group at Simons Foundation Flatiron Institute. I previously worked at under Principal Investigator Kiyohito Iigaya at the Iigaya Labs in Computational Psychiatry. I am also referred to as Manny. I speak English, Deutsch, Français, Español, and 한국어. 
 
 Research Interests
 ------
