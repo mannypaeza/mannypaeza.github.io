@@ -1,7 +1,8 @@
-#### [CV](https://mannypaeza.github.io/Resume_ManuelPaez.pdf)     [Linkedin](https://www.linkedin.com/in/manuelpaeza/) 
+### Manuel Paez
+#### [CV](https://mannypaeza.github.io/Resume_ManuelPaez.pdf) [Linkedin](https://www.linkedin.com/in/manuelpaeza/) 
 
-Manuel Paez
-======
+About
+------
 
 I am Manuel Paez (Manny), a fourth-year Computer Science B.A student at Columbia University. I am currently a Research Assistant under Szabolcs Márka and a
 Research Intern in the Chklovskii Group at Simons Foundation Flatiron Institute. I speak English, Deutsch, Français, Español, and 한국어. 
