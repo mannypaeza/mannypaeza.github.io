@@ -1,7 +1,7 @@
 Manuel Paez
 ======
 
-I am Manuel Paez (Manny), a fourth-year Computer Science B.A student at Columbia University. I am currently a Research Assistant under Szabolc Marka and a
+I am Manuel Paez (Manny), a fourth-year Computer Science B.A student at Columbia University. I am currently a Research Assistant under Szabolcs Márka and a
 Research Intern in the Chklovskii Group at Simons Foundation Flatiron Institute. I speak English, Deutsch, Français, Español, and 한국어. 
 
 Research Interests
