@@ -17,7 +17,8 @@ I utilize skills from Quantum Information Sciences, Theoretical and Computationa
 * How can we intersect neuro-AI with quantum computing to create better and more advanced Artificial Intelligence? 
 * How can quantum machines efficiently learn and accurately predict complex quantum many-body systems, especially for modeling our mathematical models and theories of the universe? 
 * How can novel quantum-algorithms designs achieve better speed-ups on quantum machines than classical machines? 
-* What mathematical structures can be implemented for post-quantum supremacy cryptography on both classical and quantum machines? 5. How can quantum algorithms advance cryptanalysis, cyberattack, and signal intelligence tools and systems?
+* What mathematical structures can be implemented for post-quantum supremacy cryptography on both classical and quantum machines? 
+* How can quantum algorithms advance cryptanalysis, cyberattack, and signal intelligence tools and systems?
  
 My ultimate dream is to build a sentient, autonomous Artificial Intelligence that operates on a Quantum Computer and a Quantum-Mind Interface for Humans (similar to the Cyber-Brains in the anime/manga Ghost in the Shell).
 
