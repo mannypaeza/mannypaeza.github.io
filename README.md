@@ -14,11 +14,10 @@ Research Interests
 My current research aims are to build a rigorous foundation for exploring how the intersections of Artificial Intelligence, Quantum Information Sciences, Computational Neuroscience, and Cryptography can advance Artificial Intelligence, Signals Intelligence, and Mind-Machine Capacities. With this rigorous foundation, I seek to discover new algorithmic tools and theories that enhance the ability to carry out these functions.
  
 I utilize skills from Quantum Information Sciences, Theoretical and Computational Neuroscience, Machine Learning, Algebra, Topology, Number Theory, and Cryptography to study these five main questions:
-* How can we intersect Neuroscience with Quantum Computing to create better and more advanced Artificial Intelligence?
-* How can we intersect Neuroscience, Neurotechnology, and Quantum Computing for the implementation of Mind-Machine Interfaces (Computer-Brain)?
-* How can Quantum Artificial Intelligence advance data analysis and processing for Signals Intelligence and Quantum Many-Body System Modeling?
-* How can Quantum Artificial Intelligence and Quantum Cryptography advance infiltrating computer systems and communications systems (Quantum Cryptanalysis) for Signals Intelligence?
-* How can Quantum Sciences advance Cryptography for Computer and Communication Systems?
+* How can we intersect neuro-AI with quantum computing to create better and more advanced Artificial Intelligence? 
+* How can quantum machines efficiently learn and accurately predict complex quantum many-body systems, especially for modeling our mathematical models and theories of the universe? 
+* How can novel quantum-algorithms designs achieve better speed-ups on quantum machines than classical machines? 
+* What mathematical structures can be implemented for post-quantum supremacy cryptography on both classical and quantum machines? 5. How can quantum algorithms advance cryptanalysis, cyberattack, and signal intelligence tools and systems?
  
 My ultimate dream is to build a sentient, autonomous Artificial Intelligence that operates on a Quantum Computer and a Quantum-Mind Interface for Humans (similar to the Cyber-Brains in the anime/manga Ghost in the Shell).
 
@@ -28,4 +27,5 @@ Projects and Publications
 ------
 
 Associations for Assembly Calculus: [GitHub](https://github.com/mannypaeza/assemblies)
+
 Neural-Segmentation Algorithm for Connectomes: [GitHub](https://github.com/mannypaeza/neutorch)
