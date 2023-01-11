@@ -23,7 +23,7 @@ My research aims are centered around constructing a rigorous foundation for the 
 
 5. How can quantum machines and their complexity classes help us solve complexity class problems, such as if P = NP?
  
-I hope to explore these questions and similar questions alike while pursuing a Ph.D. candidacy. My research aims are centered around pursuing my ultimate dream: to create neuromorphic quantum machines and to create a quantum machine that is encoded with a sentience and consciousness comparable to a human mind. 
+I hope to explore these questions and similar questions alike while pursuing a Ph.D. candidacy. My research pursuits, both past, present, and future, are centered around pursuing my ultimate dream: to create neuromorphic quantum machines and to create a quantum machine that is encoded with a sentience and consciousness comparable to a human mind. 
 
 Aside from research, my hobbies includes solving logic games and puzzles (such as the problems in MIT Mystery Hunt), reading literature, engaging with the Arts (Art Galleries, Operas, Philharmonics, etc.), traveling, and watching Bayern Munich. I am also a Mocha Coffee Enthusiast and a huge fan of Ghost in the Shell. My aesthetic is described as a mix of minimalism and neo-futurism. 
 
