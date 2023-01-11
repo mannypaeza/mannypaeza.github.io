@@ -11,18 +11,16 @@ I am Manuel Paez, a Fourth-Year Computer Science B.A. student at Columbia Univer
 Research Interests
 ------
  
-My current research aims are to build a rigorous foundation for exploring how the intersections of Artificial Intelligence, Quantum Information Sciences, Computational Neuroscience, and Cryptography can advance Artificial Intelligence, Signals Intelligence, and Mind-Machine Capacities. With this rigorous foundation, I seek to discover new algorithmic tools and theories that enhance the ability to carry out these functions.
+My research aims are centered around constructing a rigorous foundation for the algorithmic theories and cryptographic tools necessary for a quantum-supremacy world. As quantum machines present endless possibilities compared to classical machines, particularly in algorithms, cryptography, and cryptanalysis, I want to design novel algorithms and cryptographic protocols necessary for securing our future. I desire to explore these five main questions from Quantum Algorithms, Complexity, and Cryptography:
+	1. What computational problems can a quantum-machine solve that a classical machine with comparable resources cannot (such as NP-search problems)?
+	2. Related to question 1, what are the quantum-algorithms that speed-up computational problems compared to a classical machine with comparable resources (particularly in search and graph problems)?
+	3. What cryptography protocols can be constructed such that it is hard for a quantum machine to solve, even if implemented on a classical-machine?
+	4. How can better develop a secure Device-Independent Quantum Key Distribution (pure-quantum) cryptographic protocol against quantum-machine attacks?
+	5. How can quantum machines and their complexity classes help us solve complexity class-problems, such as if P = NP?
  
-I utilize skills from Quantum Information Sciences, Theoretical and Computational Neuroscience, Machine Learning, Algebra, Topology, Number Theory, and Cryptography to study these five main questions:
-* How can we intersect neuro-AI with quantum computing to create better and more advanced Artificial Intelligence? 
-* How can quantum machines efficiently learn and accurately predict complex quantum many-body systems, especially for modeling our mathematical models and theories of the universe? 
-* How can novel quantum-algorithms designs achieve better speed-ups on quantum machines than classical machines? 
-* What mathematical structures can be implemented for post-quantum supremacy cryptography on both classical and quantum machines? 
-* How can quantum algorithms advance cryptanalysis, cyberattack, and signal intelligence tools and systems?
- 
-My ultimate dream is to build a sentient, autonomous Artificial Intelligence that operates on a Quantum Computer and a Quantum-Mind Interface for Humans (similar to the Cyber-Brains in the anime/manga Ghost in the Shell).
+I hope to explore these questions and similar questions alike while pursuing a Ph.D. candidacy. Upon finishing my studies, I hope to work for the National Security Agency of the United States to continue to build a quantum-supremacy world. My research aims are centered around pursuing my ultimate desires: to create neuromorphic quantum machines and to create a quantum machine that is encoded with a sentience and consciousness comparable to a human mind. 
 
-Aside from research, my hobbies includes solving logic puzzles (like MIT Mystery Hunt stuff) reading books (particularly International Literature, Sci-fi, and the Classics), engaging with the Arts (Art Galleries, Operas, Philharmonics, etc.), traveling, and watching Bayern Munich. I am also a Mocha Coffee Enthusiast.
+Aside from research, my hobbies includes solving logic puzzles (like MIT Mystery Hunt stuff) reading books (particularly International Literature, Sci-fi, and the Classics), engaging with the Arts (Art Galleries, Operas, Philharmonics, etc.), traveling, and watching Bayern Munich. I am also a Mocha Coffee Enthusiast and a huge fan of neo-futurism. I also love sci-fi, particularly Ghost in the Shell and Blade Runner.
 
 Projects and Publications
 ------
