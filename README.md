@@ -21,7 +21,7 @@ My research aims are centered around constructing a rigorous foundation for the 
 
 4. How can we better develop a secure Device-Independent Quantum Key Distribution (pure-quantum) cryptographic protocol against quantum machine attacks?
 
-5. How can quantum machines and their complexity classes help us solve complexity class problems, such as if P = NP?
+5. How can quantum machines and their complexity classes help us solve complexity class problems, such as the unsolved question if P = NP?
  
 I hope to explore these questions and similar questions alike while pursuing a Ph.D. candidacy. My research pursuits, both past, present, and future, are centered around pursuing my ultimate dream: to create neuromorphic quantum machines and to create a quantum machine that is encoded with a sentience and consciousness comparable to a human mind. 
 
