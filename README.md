@@ -15,7 +15,7 @@ My research aims are centered around constructing a rigorous foundation for the 
 
 1. What computational problems can a quantum machine solve that a classical machine with comparable resources cannot (such as NP-search problems)?
 
-2. Related to question 1, what are the quantum algorithms that speed up solving computational problems compared to a classical machine with comparable resources (particularly for search and graph problems)?
+2. Related to question 1, what are the quantum algorithms that solve problems faster compared to a classical machine with comparable resources (particularly for search and graph problems)?
 
 3. What cryptography protocols can be constructed such that it is hard for a quantum machine to solve, even if implemented on a classical machine?
 
