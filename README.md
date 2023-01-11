@@ -25,7 +25,7 @@ My research aims are centered around constructing a rigorous foundation for the 
  
 I hope to explore these questions and similar questions alike while pursuing a Ph.D. candidacy. My research aims are centered around pursuing my ultimate dream: to create neuromorphic quantum machines and to create a quantum machine that is encoded with a sentience and consciousness comparable to a human mind. 
 
-Aside from research, my hobbies includes solving logic puzzles (like MIT Mystery Hunt stuff) reading books (particularly International Literature, Sci-fi, and the Classics), engaging with the Arts (Art Galleries, Operas, Philharmonics, etc.), traveling, and watching Bayern Munich. I am also a Mocha Coffee Enthusiast and a huge fan of neo-futurism. I also love sci-fi, particularly Ghost in the Shell and Blade Runner.
+Aside from research, my hobbies includes solving logic games and puzzles (such as the problems in MIT Mystery Hunt), reading literature, engaging with the Arts (Art Galleries, Operas, Philharmonics, etc.), traveling, and watching Bayern Munich. I am also a Mocha Coffee Enthusiast and a huge fan of Ghost in the Shell. My aesthetic is described as a mix of minimalism and neo-futurism. 
 
 Projects and Publications
 ------
