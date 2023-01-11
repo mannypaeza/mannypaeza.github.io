@@ -33,3 +33,6 @@ Projects and Publications
 Associations for Assembly Calculus: [GitHub](https://github.com/mannypaeza/assemblies)
 
 Neural-Segmentation Algorithm for Connectomes: [GitHub](https://github.com/mannypaeza/neutorch)
+
+
+Last Update: 10, January 2023
