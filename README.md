@@ -19,7 +19,7 @@ My research aims are centered around constructing a rigorous foundation for the 
 
 3. What cryptography protocols can be constructed such that it is hard for a quantum machine to solve, even if implemented on a classical machine?
 
-4. How can better develop a secure Device-Independent Quantum Key Distribution (pure-quantum) cryptographic protocol against quantum-machine attacks?
+4. How can we better develop a secure Device-Independent Quantum Key Distribution (pure-quantum) cryptographic protocol against quantum machine attacks?
 
 5. How can quantum machines and their complexity classes help us solve complexity class problems, such as if P = NP?
  
