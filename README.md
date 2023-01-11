@@ -6,7 +6,7 @@
 About
 ------
 
-I am Manuel Paez, a Fourth-Year Computer Science B.A. student at Columbia University. I am currently a Research Assistant under Szabolcs Márka in Columbia's Department of Physics and a Research Intern in the Chklovskii Group for Neural Circuits and Algorithms at Simons Foundation's Flatiron Institute. I previously worked under Kiyohito Iigaya in Columbia's Department of Psychiatry. I am also referred to as Manny. I speak English, Deutsch, Français, Español, and 한국어. 
+I am Manuel Paez, a fourth-year Computer Science B.A. student at Columbia University. I am currently a Research Assistant under Szabolcs Márka in Columbia's Department of Physics and a Research Intern in the Chklovskii Group for Neural Circuits and Algorithms at Simons Foundation's Flatiron Institute. I previously worked under Kiyohito Iigaya in Columbia's Department of Psychiatry. I am also referred to as Manny. I speak English, Deutsch, Français, Español, and 한국어. 
 
 Research Interests
 ------
