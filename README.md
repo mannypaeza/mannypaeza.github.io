@@ -11,7 +11,7 @@ I am Manuel Paez, a fourth-year Computer Science B.A. student at Columbia Univer
 Research Interests
 ------
  
-My research aims are centered around constructing a rigorous foundation for the algorithmic theories and cryptographic tools necessary for a quantum-supremacy world. As quantum machines present endless possibilities compared to classical machines, particularly in algorithms, cryptography, and cryptanalysis, I want to design novel algorithms and cryptographic protocols necessary for securing our future. I desire to explore these five main questions from Quantum Algorithms, Complexity, and Cryptography:
+My research aims are centered around constructing a rigorous foundation for the algorithmic theories and cryptographic tools necessary for a quantum-supremacy world. As quantum machines present endless computational possibilities compared to classical machines, particularly in algorithms, cryptography, and cryptanalysis, I want to design novel algorithms and cryptographic protocols necessary for securing our future. I desire to explore these five main questions from Quantum Algorithms, Complexity, and Cryptography:
 
 1. What computational problems can a quantum machine solve that a classical machine with comparable resources cannot (such as NP-search problems)?
 
