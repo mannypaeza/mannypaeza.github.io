@@ -1,7 +1,7 @@
 ### Manuel Paez (Manny)
 #### [CV](https://mannypaeza.github.io/Resume_ManuelPaez.pdf) [Linkedin](https://www.linkedin.com/in/manuelpaeza/) | manuel [dot] paez [at] columbia [dot] edu
 
-<img src="https://mannypaeza.github.io/portrait1.jpg" width="373" height="394">
+<img src="https://mannypaeza.github.io/portrait1.JPG" width="373" height="394">
 
 About
 ------
