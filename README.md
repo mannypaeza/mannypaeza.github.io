@@ -1,7 +1,7 @@
 ### Manuel Paez (Manny)
 #### [CV](https://mannypaeza.github.io/Resume_ManuelPaez.pdf) [Linkedin](https://www.linkedin.com/in/manuelpaeza/) | manuel [dot] paez [at] columbia [dot] edu
 
-<img src="https://mannypaeza.github.io/portrait_2023.JPG" width="373" height="500">
+<img src="https://mannypaeza.github.io/portrait_jan2023.JPG" width="373" height="500">
 
 About
 ------
@@ -35,4 +35,4 @@ Associations for Assembly Calculus: [GitHub](https://github.com/mannypaeza/assem
 Neural-Segmentation Algorithm for Connectomes: [GitHub](https://github.com/mannypaeza/neutorch)
 
 
-Last Update: 10, January 2023
+Last Update: 20, January 2023
