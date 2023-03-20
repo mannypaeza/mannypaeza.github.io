@@ -1,6 +1,7 @@
 #### <p align="right"> [CV](https://mannypaeza.github.io/Resume_ManuelPaez.pdf) [Linkedin](https://www.linkedin.com/in/manuelpaeza/) | manuel [dot] paez [at] columbia [dot] edu </p>
 ## <p align="center"> Manuel Paez </p> 
 <img align="right" src="https://mannypaeza.github.io/portrait_jan2023.jpg" alt="My Image" width="300" height="351">
+
 About
 ------
 
