@@ -11,7 +11,7 @@ I am a fourth-year Computer Science B.A student at Columbia University. I am a c
 Projects and Publications
 ------
 
-Associations for Assembly Calculus: [GitHub](https://github.com/mannypaeza/assemblies) [Paper](https://mannypaeza.github.io/FinalPaper_NaturalArtificialNN.pdf)
+Associations for Assembly Calculus: [GitHub](https://github.com/mannypaeza/assemblies) and [Paper](https://mannypaeza.github.io/FinalPaper_NaturalArtificialNN.pdf)
 
 Neural-Segmentation Algorithm for Connectomes: [GitHub](https://github.com/mannypaeza/neutorch)
 
