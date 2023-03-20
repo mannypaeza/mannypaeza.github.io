@@ -6,7 +6,7 @@
 About
 ------
 
-I am a fourth-year Computer Science B.A student at Columbia University. I am a current research intern in the [Neural Circuits and Algorithms Group (NCA)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/neural-circuits-and-algorithms/) at the Center for Computational Neuroscience at the Simons Foundation's Flatiron Institute and a current researcher under Professor [Szabolcs Márka](https://www.physics.columbia.edu/content/szabolcs-marka) in Columbia's Department of Physics. My research aims are primarily in quantum games and quantum cryptography, coding theory, and graph theory, but extend to the broad area of the intersection of mathematics and computer science. I am also the cofounder and cohead of Columbia University's [Quantum Computing Club](https://cuquantumcomputingclub.github.io/), an undergraduate group that discusses quantum information science. I speak English, Deutsch, Français, Español, and 한국어. 
+I am a fourth-year Computer Science B.A student at Columbia University. I am a current research intern in the [Neural Circuits and Algorithms Group (NCA)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/neural-circuits-and-algorithms/) at the Center for Computational Neuroscience at the Simons Foundation's Flatiron Institute and a current researcher under Professor [Szabolcs Márka](https://www.physics.columbia.edu/content/szabolcs-marka) in Columbia's Department of Physics. My research aims are primarily in quantum games and quantum cryptography, coding theory, and graph theory, but extend to the broad area of the intersection of mathematics and computer science. I am also the cofounder and cohead of Columbia University's [Quantum Computing Club](https://cuquantumcomputingclub.github.io/), a seminar-style undergraduate group that discusses quantum information science from the perspectives of mathematics, c omputer science, and physics. 
 
 Projects and Publications
 ------
@@ -20,4 +20,4 @@ My research aims are in the broad area of the intersection of mathematics and co
 Personal
 ------
 
-My hobbies includes solving logic games and puzzles (such as the problems in MIT Mystery Hunt), chess games, reading literature, engaging with the Arts (Art Galleries, Operas, Philharmonics, etc.), traveling, and watching Bayern Munich. I am also a Mocha Coffee Enthusiast and a huge fan of Ghost in the Shell. I also have a proud interest in the neo-futurism and minimalism aesthetic. 
+My hobbies includes solving logic games and puzzles (such as the problems in MIT Mystery Hunt), chess games, reading literature, engaging with the Arts (Art Galleries, Operas, Philharmonics, etc.), traveling, and watching Bayern Munich. I am also a Mocha Coffee Enthusiast and a huge fan of Ghost in the Shell. I also have a proud interest in the neo-futurism and minimalism aesthetic. I also speak English, Deutsch, Français, Español, and 한국어. 
