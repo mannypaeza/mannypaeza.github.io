@@ -15,8 +15,6 @@ Associations for Assembly Calculus: [GitHub](https://github.com/mannypaeza/assem
 
 Neural-Segmentation Algorithm for Connectomes: [GitHub](https://github.com/mannypaeza/neutorch)
 
-My research aims are in the broad area of the intersection of mathematics and computer science
-
 Personal
 ------
 
