@@ -5,7 +5,7 @@
 ## About
 ------
 
-I am a fourth-year Computer Science B.A student at Columbia University. I am a current research intern in the [Neural Circuits and Algorithms Group (NCA)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/neural-circuits-and-algorithms/) at the Center for Computational Neuroscience at the Simons Foundation's Flatiron Institute and a current researcher under Professor [Szabolcs Márka](https://www.physics.columbia.edu/content/szabolcs-marka) in Columbia's Department of Physics. My research aims are primarily in quantum games and quantum cryptography, coding theory, and graph algorithms, but extends to the broad area of the intersection of mathematics and computer science. I am also the cofounder and cohead of Columbia University's [Quantum Computing Club](https://cuquantumcomputingclub.github.io/).
+I am a fourth-year Computer Science B.A student at Columbia University. I am a current research intern in the [Neural Circuits and Algorithms Group (NCA)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/neural-circuits-and-algorithms/) at the Center for Computational Neuroscience at the Simons Foundation's Flatiron Institute and a current researcher under Professor [Szabolcs Márka](https://www.physics.columbia.edu/content/szabolcs-marka) in Columbia's Department of Physics. My research aims are primarily in quantum games, quantum algorithms, quantum cryptography, coding theory, and graph algorithms, but extends to the broad area of the intersection of mathematics and computer science. I am also the cofounder and cohead of Columbia University's [Quantum Computing Club](https://cuquantumcomputingclub.github.io/).
 
 ## Projects and Publications
 ------
