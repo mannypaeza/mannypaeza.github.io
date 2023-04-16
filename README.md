@@ -10,7 +10,7 @@ I am a fourth-year Computer Science B.A student at Columbia University. I am a c
 ------
 COMS 4995 Natural Artificial Neural Networks Final Project | Associations for Assembly Calculus: [GitHub](https://github.com/mannypaeza/assemblies) and [Paper](https://mannypaeza.github.io/FinalPaper_NaturalArtificialNN.pdf)
 
-CCN at Simons Foundation Flatiron Insitute: Neuronal-Boundary Detection Algorithm for Connectomes: [GitHub](https://github.com/flatironinstitute/neutorch/boundary-augmentation)
+CCN at Simons Foundation Flatiron Insitute | Neuronal-Boundary Detection Algorithm for Connectomes: [GitHub](https://github.com/flatironinstitute/neutorch/boundary-augmentation)
 
 ## Personal
 ------
