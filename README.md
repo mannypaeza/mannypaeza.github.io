@@ -11,8 +11,9 @@ I am a fourth-year Computer Science B.A student at Columbia University. I am a c
 ------
 Associations for Assembly Calculus: [GitHub](https://github.com/mannypaeza/assemblies) and [Paper](https://mannypaeza.github.io/FinalPaper_NaturalArtificialNN.pdf)
 
-Neural-Segmentation Algorithm for Connectomes: [GitHub](https://github.com/mannypaeza/neutorch)
+Neural-Segmentation Algorithm for Connectomes: [GitHub](https://github.com/flatironinstitute/neutorch)
 
 ## Personal
 ------
-My hobbies includes solving logic games and puzzles (such as the problems in MIT Mystery Hunt), chess games, reading literature, engaging with the Arts (Art Galleries, Operas, Philharmonics, etc.), traveling, and watching Bayern Munich. I am also a Mocha Coffee Enthusiast and a huge fan of Ghost in the Shell. I also have a proud interest in the neo-futurism and minimalism aesthetic. I also speak English, Deutsch, Français, Español, and 한국어. 
+
+My hobbies includes playing logic games and puzzles (such as the problems in MIT Mystery Hunt), chess, reading literature, engaging with the Arts (Art Galleries, Operas, Philharmonics, etc.), traveling, and watching Bayern Munich. I am also a Mocha Coffee Enthusiast and enjoy a neo-futurist and minimalist aesthetic. I also speak English, Deutsch, Français, Español, and 한국어. 
