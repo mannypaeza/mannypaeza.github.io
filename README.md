@@ -4,14 +4,13 @@
 
 ## About
 ------
-I am a fourth-year Computer Science B.A student at Columbia University. I am a current research intern in the [Neural Circuits and Algorithms Group (NCA)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/neural-circuits-and-algorithms/) at the Center for Computational Neuroscience at the Simons Foundation's Flatiron Institute and a current researcher under Professor [Szabolcs Márka](https://www.physics.columbia.edu/content/szabolcs-marka) in Columbia's Department of Physics. My research aims are primarily in quantum algorithms, quantum games, graph algorithms, and sub-linear algorithms
-, but extends to the broad area of the intersection of mathematics and computer science. I am also the cofounder and cohead of Columbia University's [Quantum Computing Club](https://cuquantumcomputingclub.github.io/).
+I am a fourth-year Computer Science B.A student at Columbia University. I am a current research intern in the [Neural Circuits and Algorithms Group (NCA)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/neural-circuits-and-algorithms/) at the Center for Computational Neuroscience at the Simons Foundation's Flatiron Institute and a current researcher under Professor [Szabolcs Márka](https://www.physics.columbia.edu/content/szabolcs-marka) in Columbia's Department of Physics. My research aims are primarily in quantum algorithms, quantum games, graph algorithms, and sub-linear algorithms, but extends to the broad area of the intersection of mathematics and computer science. I am also the cofounder and cohead of Columbia University's [Quantum Computing Club](https://cuquantumcomputingclub.github.io/).
 
 ## Projects and Publications
 ------
-Associations for Assembly Calculus: [GitHub](https://github.com/mannypaeza/assemblies) and [Paper](https://mannypaeza.github.io/FinalPaper_NaturalArtificialNN.pdf)
+COMS 4995 Natural Artificial Neural Networks Final Project | Associations for Assembly Calculus: [GitHub](https://github.com/mannypaeza/assemblies) and [Paper](https://mannypaeza.github.io/FinalPaper_NaturalArtificialNN.pdf)
 
-Neural-Segmentation Algorithm for Connectomes: [GitHub](https://github.com/flatironinstitute/neutorch)
+CCN at Simons Foundation Flatiron Insitute: Neuronal-Boundary Detection Algorithm for Connectomes: [GitHub](https://github.com/flatironinstitute/neutorch/boundary-augmentation)
 
 ## Personal
 ------
