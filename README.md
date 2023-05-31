@@ -12,6 +12,10 @@ COMS 4995 Natural Artificial Neural Networks Final Project | Associations for As
 
 CCN at Simons Foundation Flatiron Insitute | Neuronal-Boundary Detection Algorithm for Connectomes: [GitHub](https://github.com/flatironinstitute/neutorch/boundary-augmentation)
 
+## Publications
+
+To be determined
+
 ## Personal
 ------
 
