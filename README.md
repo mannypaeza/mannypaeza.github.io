@@ -23,4 +23,4 @@ To be determined
 ## Personal
 ------
 
-My hobbies includes playing logic games and puzzles (such as the problems in MIT Mystery Hunt), chess, reading literature, engaging with the Arts (Art Galleries, Operas, Philharmonics, etc.), traveling, and watching Bayern Munich. I am also a Mocha Coffee Enthusiast and enjoy a neo-futurist and minimalist aesthetic. I also speak English, Deutsch, Français, Español, and 한국어. 
+My hobbies includes playing logic games and puzzles (such as the problems in MIT Mystery Hunt), chess, reading literature, engaging with the Arts (Art Galleries, Operas, Philharmonics, etc.), traveling, and watching Bayern Munich. I am also a Mocha Coffee Enthusiast and a enthusaist for the neo-futurist and minimalist aesthetic. I also speak English, Deutsch, Français, Español, and 한국어. 
