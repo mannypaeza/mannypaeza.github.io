@@ -8,11 +8,11 @@ I am a graduating Computer Science B.A student at Columbia University. I am a cu
 
 ## Projects and Publications
 ------
-COMS 4995: Natural Artificial Neural Networks Final Project | Associations for Assembly Calculus: [GitHub](https://github.com/mannypaeza/assemblies) and [Paper](https://mannypaeza.github.io/FinalPaper_NaturalArtificialNN.pdf)
+COMS 4995: Natural Artificial Neural Networks Final Project (Prof. Christos Papadimitriou) | Associations for Assembly Calculus: [GitHub](https://github.com/mannypaeza/assemblies) and [Paper](https://mannypaeza.github.io/FinalPaper_NaturalArtificialNN.pdf)
 
-COMS 4232: Advanced Algorithms Final Project | Notes on Spectral Sparsification: [Paper](https://mannypaeza.github.io/COMS4232_finalproject_paezcunninghamnatan.pdf)
+COMS 4232: Advanced Algorithms Final Project (Prof. Alexandr Andoni) | Notes on Spectral Sparsification: [Paper](https://mannypaeza.github.io/COMS4232_finalproject_paezcunninghamnatan.pdf)
 
-COMS 3998: Undergraduate Research Project | Quantum-Advantage Algorithm for Pattern Detection: [Github](https://github.com/mannypaeza/quantum_mbalgorithm_gravsearch)
+COMS 3998: Undergraduate Research Project (Prof. Szabolc Marka) | Quantum-Advantage Algorithm for Pattern Detection: [Github](https://github.com/mannypaeza/quantum_mbalgorithm_gravsearch)
 
 CCN at Simons Foundation Flatiron Insitute | Neuronal-Boundary Detection Algorithm for Connectomes: [GitHub](https://github.com/flatironinstitute/neutorch/boundary-augmentation)
 
