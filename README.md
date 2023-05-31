@@ -8,7 +8,7 @@ I am a graduating Computer Science B.A student at Columbia University. I am a cu
 
 ## Projects and Publications
 ------
-COMS 4995: Natural Artificial Neural Networks Final Project (Prof. Christos Papadimitriou) | Associations for Assembly Calculus: [GitHub](https://github.com/mannypaeza/assemblies) and [Paper](https://mannypaeza.github.io/FinalPaper_NaturalArtificialNN.pdf)
+COMS 4995: Natural Artificial Neural Networks Final Project (Prof. Christos Papadimitriou) | Associations for Assembly Calculus: [GitHub](https://github.com/mannypaeza/assemblies) [Paper](https://mannypaeza.github.io/FinalPaper_NaturalArtificialNN.pdf)
 
 COMS 4232: Advanced Algorithms Final Project (Prof. Alexandr Andoni) | Notes on Spectral Sparsification: [Paper](https://mannypaeza.github.io/COMS4232_finalproject_paezcunninghamnatan.pdf)
 
