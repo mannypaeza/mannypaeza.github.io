@@ -10,7 +10,7 @@ I am a graduating Computer Science B.A student at Columbia University. I am a cu
 ------
 COMS 4995: Natural Artificial Neural Networks Final Project | Associations for Assembly Calculus: [GitHub](https://github.com/mannypaeza/assemblies) and [Paper](https://mannypaeza.github.io/FinalPaper_NaturalArtificialNN.pdf)
 
-COMS 4232: Advanced Algorithms Final Project | Notes on Spectral Sparsification: [Paper](https://mannypaeza.github.io/COMS4232_finalproject_paezcunninghamnatan)
+COMS 4232: Advanced Algorithms Final Project | Notes on Spectral Sparsification: [Paper](https://mannypaeza.github.io/COMS4232_finalproject_paezcunninghamnatan.pdf)
 
 COMS 3998: Undergraduate Research Project | Quantum-Advantage Algorithm for Pattern Detection: [Github](https://github.com/mannypaeza/quantum_mbalgorithm_gravsearch)
 
