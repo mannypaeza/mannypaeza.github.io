@@ -4,7 +4,7 @@
 
 ## About
 ------
-I am a graduating Computer Science B.A student at Columbia University. I am a current research intern in the [Neural Circuits and Algorithms Group (NCA)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/neural-circuits-and-algorithms/) at the Center for Computational Neuroscience at the Simons Foundation's Flatiron Institute. My research aims are in high-dimensional geometry for algorithms, functional analysis, discrete matehmatics and applications of pure matheamtics to algorithms. I am one of the cofounders and coheads of Columbia University's [Quantum Computing Club](https://cuquantumcomputingclub.github.io/).
+I am a graduating Computer Science B.A student at Columbia University. I am a current research intern in the [Neural Circuits and Algorithms Group (NCA)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/neural-circuits-and-algorithms/) at the Center for Computational Neuroscience at the Simons Foundation's Flatiron Institute. My research aims are in high-dimensional geometry for algorithms, functional analysis, discrete mathematics and applications of pure mathematics to algorithms. Previously, I have worked in quantum algorithms and computational neuroscience. I am one of the cofounders and coheads of Columbia University's [Quantum Computing Club](https://cuquantumcomputingclub.github.io/). 
 
 ## Projects and Publications
 ------
