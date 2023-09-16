@@ -4,7 +4,7 @@
 
 ## About
 ------
-I am a final year Mathematics and Computer Science B.A student at Columbia University. I am a current research intern in the [Neural Circuits and Algorithms Group (NCA)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/neural-circuits-and-algorithms/) at the Center for Computational Neuroscience at the Simons Foundation's Flatiron Institute, advised by Mitii Chklovski and Jingpeng Wu. I am also a research assistant in the Columbia University Department of Physics, advised by Szabolc Marka. My research aims are in functional analysis, number theory, combinatorics, probability, and theoretical computer science.
+I am a final year Mathematics and Computer Science B.A student at Columbia University. I am a current research intern in the [Neural Circuits and Algorithms Group (NCA)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/neural-circuits-and-algorithms/) at the Center for Computational Neuroscience at the Simons Foundation's Flatiron Institute, advised by Mitii Chklovski and Jingpeng Wu. I am also a research assistant in the Columbia University Department of Physics, advised by Szabolc Marka. My continuing (and future) research aims are in functional analysis, number theory, combinatorics, probability, and theoretical computer science.
 In general, I am interested in the application of discrete and pure mathematics to algorithms research and to solving computer science problems. Previously, I did work in quantum algorithms and computational neuroscience. I am one of the co-founders and coheads of Columbia University's [Quantum Computing Club](https://cuquantumcomputingclub.github.io/). 
 
 ## Projects and Publications
