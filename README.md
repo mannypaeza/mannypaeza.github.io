@@ -1,5 +1,5 @@
 # Manuel Paez 
-#### [CV](https://mannypaeza.github.io/Resume_ManuelPaez.pdf) | manuel [dot] paez [at] columbia [dot] edu 
+#### [CV](https://mannypaeza.github.io/CV_manuelpaez.pdf) | manuel [dot] paez [at] columbia [dot] edu 
 <img align="right" src="https://mannypaeza.github.io/portrait_jan2023.jpg" alt="My Image" width="250" height="300">
 
 ## About
