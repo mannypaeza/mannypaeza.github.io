@@ -1,10 +1,11 @@
 # Manuel Paez 
-#### [CV](https://mannypaeza.github.io/CV_manuelpaez.pdf) | manuel [dot] paez [at] columbia [dot] edu 
+#### [CV](https://mannypaeza.github.io/CV_ManuelPaez.pdf) | manuel [dot] paez [at] columbia [dot] edu 
 <img align="right" src="https://mannypaeza.github.io/portrait_jan2023.jpg" alt="My Image" width="250" height="300">
 
 ## About
 ------
-I am a graduating Computer Science B.A student at Columbia University. I am a current research intern in the [Neural Circuits and Algorithms Group (NCA)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/neural-circuits-and-algorithms/) at the Center for Computational Neuroscience at the Simons Foundation's Flatiron Institute. My research aims are in high-dimensional geometry for algorithms, functional analysis, and combinatorics. In general, I am interested in the application of discrete and pure mathematics to algorithms, machine learning, and data research. Previously, I did work in quantum algorithms and computational neuroscience. I am one of the co-founders and coheads of Columbia University's [Quantum Computing Club](https://cuquantumcomputingclub.github.io/). 
+I am a final year Mathematics and Computer Science B.A student at Columbia University. I am a current research intern in the [Neural Circuits and Algorithms Group (NCA)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/neural-circuits-and-algorithms/) at the Center for Computational Neuroscience at the Simons Foundation's Flatiron Institute. My research aims are in functional analysis, number theory, combinatorics, probability, and theoretical computer science.
+In general, I am interested in the application of discrete and pure mathematics to algorithms research and to solving computer science problems. Previously, I did work in quantum algorithms and computational neuroscience. I am one of the co-founders and coheads of Columbia University's [Quantum Computing Club](https://cuquantumcomputingclub.github.io/). 
 
 ## Projects and Publications
 ------
