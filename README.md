@@ -10,27 +10,27 @@ In general, I am interested in the application of discrete and pure mathematics 
 ## Relevant Coursework
 A List of CS and Math classes I have taken over the last years
 
-- Real Analysis II
-- Machine Learning Theory
-- Machine Learning 
-- Probability Theory
-- Algorithms for Massive Data
-- Real Analysis I
-- Advanced Algorithms
-- Undergraduate Research Projects 
-- Intro to Quantum Computing
-- Intro to Theoretical Neuroscience
-- Natural Artificial Neural Networks 
+- Real Analysis II (Spring 2024)
+- Machine Learning Theory (Spring 2024)
+- Machine Learning (Spring 2024)
+- Probability Theory (Spring 2024)
+- Algorithms for Massive Data (Fall 2023)
+- Real Analysis I (Fall 2023)
+- Advanced Algorithms (Spring 2023)
+- Undergraduate Research Projects (Spring 2023)
+- Intro to Quantum Computing (Fall 2022)
+- Intro to Theoretical Neuroscience (Fall 2022)
+- Natural Artificial Neural Networks (Spring 2022)
 
 ## Projects
 ------
-COMS 4995: Natural Artificial Neural Networks Final Project (Prof. Christos Papadimitriou) | Associations for Assembly Calculus: [GitHub](https://github.com/mannypaeza/assemblies) [Paper](https://mannypaeza.github.io/FinalPaper_NaturalArtificialNN.pdf)
+CCN at Simons Foundation Flatiron Insitute | Neuronal-Boundary Detection Algorithm for Connectomes: [GitHub](https://github.com/flatironinstitute/neutorch/boundary-augmentation)
 
 COMS 4232: Advanced Algorithms Final Project (Prof. Alexandr Andoni) | Notes on Spectral Sparsification: [Paper](https://mannypaeza.github.io/COMS4232_finalproject_paezcunninghamnatan.pdf)
 
 COMS 3998: Undergraduate Research Project (Prof. Szabolc Marka) | Quantum-Advantage Algorithm for Pattern Detection: [Github](https://github.com/mannypaeza/quantum_mbalgorithm_gravsearch)
 
-CCN at Simons Foundation Flatiron Insitute | Neuronal-Boundary Detection Algorithm for Connectomes: [GitHub](https://github.com/flatironinstitute/neutorch/boundary-augmentation)
+COMS 4995: Natural Artificial Neural Networks Final Project (Prof. Christos Papadimitriou) | Associations for Assembly Calculus: [GitHub](https://github.com/mannypaeza/assemblies) [Paper](https://mannypaeza.github.io/FinalPaper_NaturalArtificialNN.pdf)
 
 ## Publications
 
