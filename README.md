@@ -37,4 +37,4 @@ To be determined
 
 ## Personal
 ------
-In my free time, I enjoy playing chess, solving logic puzzles, reading novels, engaging with the Arts (Art Galleries, Operas, Philharmonics, etc.), and watching Bayern Munich. I have recently gotten into studying at various cafes around the world. I also speak English, Deutsch, Français, Español, and 한국어. 
+In my free time, I enjoy playing chess, solving logic puzzles, reading novels, engaging with the Arts (Art Galleries, Operas, Philharmonics, etc.), and watching Bayern Munich. I also study at various cafes in New York City. I also speak English, Deutsch, Français, Español, and 한국어. 
