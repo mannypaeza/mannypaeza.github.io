@@ -4,14 +4,14 @@
 
 ## About
 ------
-Hello! I am a senior at Columbia University majoring in Computer Science and Mathematics. I am currently applying for summer internships and for the winter 2023/2024 job market. Some of my research interests include high-dimensional computational geometry, approximation algorithms, sublinear algorithms, and computational neuroscience. Currently, I am a guest researcher in the [Neural Circuits and Algorithms Group (NCA)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/neural-circuits-and-algorithms/) at the Center for Computational Neuroscience at the Simons Foundation's Flatiron Institute, advised by Mitya Chklovskii and Jingpeng Wu. I am also a researcher in Professor Szabolc Marka's research group. Previously, I did work for Professor Kiyohito Iigaya's research group. I am one of the co-founders and I was the former cohead from 2023-2024 of Columbia University's [Quantum Computing Club](https://cuquantumcomputingclub.github.io/). 
+Hello! I am a senior at Columbia University majoring in Computer Science and Mathematics, advised by Alexandr Andoni. I am currently applying for summer internships and for the winter 2023/2024 job market. Some of my research interests include high-dimensional computational geometry, approximation algorithms, sublinear algorithms, and computational neuroscience. Currently, I am a guest researcher in the [Neural Circuits and Algorithms Group (NCA)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/neural-circuits-and-algorithms/) at the Center for Computational Neuroscience at the Simons Foundation's Flatiron Institute, advised by Mitya Chklovskii and Jingpeng Wu. I am also a researcher in Professor Szabolc Marka's research group. Previously, I did work for Professor Kiyohito Iigaya's research group. I am one of the co-founders and I was the former cohead from 2023-2024 of Columbia University's [Quantum Computing Club](https://cuquantumcomputingclub.github.io/). 
 
 ## Relevant Coursework
 A list of CS and Math classes I have taken over the past years
 
 - Real Analysis II (Spring 2024)
 - Machine Learning Theory (Spring 2024)
-- Machine Learning (Spring 2024)
+- Undergraduate Mathematics Seminar (Spring 2024)
 - Probability Theory (Spring 2024)
 - Algorithms for Massive Data (Fall 2023)
 - Real Analysis I (Fall 2023)
