@@ -12,7 +12,7 @@ A list of CS and Math classes I have taken over the past years
 - Machine Learning (Summer 2024)
 - Real Analysis II (Spring 2024)
 - Machine Learning Theory (Spring 2024)
-- Undergraduate Mathematics Seminar (Spring 2024)
+- Advanced Topics in Deep Learning (Spring 2024)
 - Probability Theory (Spring 2024)
 - Algorithms for Massive Data (Fall 2023)
 - Real Analysis I (Fall 2023)
